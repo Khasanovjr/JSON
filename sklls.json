@@ -1,0 +1,9 @@
+{
+   "GIT": true,
+   "HTTP": true, 
+   "Terminal": true, 
+   "DevTools": true, 
+   "mobile_testing": true, 
+   "sql": true, 
+   "jmeter": true
+}
